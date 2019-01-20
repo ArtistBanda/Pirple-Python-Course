@@ -1,3 +1,10 @@
+"""
+Python Homework 1
+using and declaring variables
+
+"""
+
+
 # Declaring the details for
 # the specified song
 Genre = 'Pop'
